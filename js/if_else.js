@@ -1,4 +1,4 @@
-// let year = prompt("year?");
+let year = prompt("year?");
 
 // if (year == 2025) {
 //   alert("right");

@@ -6,15 +6,15 @@
 
 
 // let hour = 12 
-// let minute = 30 
-// if (hour == 12 && minute == 31){
+// let minute = 30
+// if (hour == 12 && minute == 30){
 //      console.log("The time is 12:30")
 // }else{
 //      console.log("value is falsy ")
 // }
 
 
-// let result = hour && minute && y
+// let result = hour && minute && y;
 // console.log(typeof result)
 
 
@@ -29,7 +29,7 @@
 // console.log(x)
 
 // let value
-// let result = value
+// let result = undefined
 // console.log(!result)
 
 // console.log(!null)
